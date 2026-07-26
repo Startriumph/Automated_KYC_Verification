@@ -1,0 +1,5 @@
+flask
+streamlit
+google-genai
+pillow
+requests
